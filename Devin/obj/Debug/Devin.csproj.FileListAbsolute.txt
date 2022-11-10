@@ -1,0 +1,22 @@
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\bin\Debug\Devin.exe.config
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\bin\Debug\Devin.exe
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\bin\Debug\Devin.pdb
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.csproj.AssemblyReference.cache
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.FormAboutPC.resources
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.Properties.Resources.resources
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.csproj.GenerateResource.cache
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.csproj.CoreCompileInputs.cache
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.exe
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.pdb
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\bin\Debug\Devin.exe.config
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\bin\Debug\Devin.exe
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\bin\Debug\Devin.pdb
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.csproj.AssemblyReference.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.csproj.SuggestedBindingRedirects.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.FormAboutPC.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.Properties.Resources.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.csproj.GenerateResource.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.csproj.CoreCompileInputs.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.exe
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Debug\Devin.pdb

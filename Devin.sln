@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devin", "Devin\Devin.csproj", "{C8FC4570-369B-450C-AC86-7E550EC30522}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup-Devin", "Setup-Devin\Setup-Devin.vdproj", "{1A8E7507-51A4-474B-9A9A-DE7C6A8C31AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8FC4570-369B-450C-AC86-7E550EC30522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FC4570-369B-450C-AC86-7E550EC30522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FC4570-369B-450C-AC86-7E550EC30522}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FC4570-369B-450C-AC86-7E550EC30522}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{1A8E7507-51A4-474B-9A9A-DE7C6A8C31AF}.Debug|Any CPU.ActiveCfg = Debug
+		{1A8E7507-51A4-474B-9A9A-DE7C6A8C31AF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {602A7595-62A0-45D9-A714-1765E6C1FDF5}
+	EndGlobalSection
+EndGlobal

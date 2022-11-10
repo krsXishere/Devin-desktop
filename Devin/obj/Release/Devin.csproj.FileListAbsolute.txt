@@ -1,0 +1,11 @@
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\bin\Release\Devin.exe.config
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\bin\Release\Devin.exe
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\bin\Release\Devin.pdb
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Release\Devin.csproj.AssemblyReference.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Release\Devin.csproj.SuggestedBindingRedirects.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Release\Devin.FormAboutPC.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Release\Devin.Properties.Resources.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Release\Devin.csproj.GenerateResource.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Release\Devin.csproj.CoreCompileInputs.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Release\Devin.exe
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PKK-Prod\Devin\Devin\obj\Release\Devin.pdb
